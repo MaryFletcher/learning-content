@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<FeaturedContent>
+  <FeaturedContentEntry Title="Hi" Description="Description 1"/>
+  <FeaturedContentEntry Title="Hello" Description="Description 2"/>
+  <FeaturedContentEntry Title="Bye" Description="Description 3"/>
+</FeaturedContent>
